@@ -7,9 +7,9 @@
 
 ---
 
-Currently, I develop hands-on projects in both **software** and **hardware**, always focusing on creating solutions that truly make a difference.
+I work on projects that bridge **software**, **hardware** and **applied AI**, with a strong focus on engineering principles, clean code practices, scalability and end-to-end solutions.
 
-*Feel free to explore my repositories and follow my journey as a developer and engineer.*
+*Feel free to explore my repositories and follow my technical evolution.*
 
 ---
 
