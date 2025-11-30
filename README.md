@@ -27,13 +27,13 @@ Currently, I develop hands-on projects in both **software** and **hardware**, al
 <p align="center">
   <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api?username=joaovzanetti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=en" 
+  src="https://github-readme-stats.vercel.app/api?username=victorzanetti&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&locale=en" 
   />
   <img 
   height="180em" 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovzanetti&theme=github_dark&layout=donut&custom_title=Technologies&langs_count=6&locale=en" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorzanetti&theme=github_dark&layout=donut&custom_title=Technologies&langs_count=6&locale=en" 
   />
 </p>
 
-![Snake animation - light](https://raw.githubusercontent.com/joaovzanetti/joaovzanetti/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Snake animation - dark](https://raw.githubusercontent.com/joaovzanetti/joaovzanetti/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation - light](https://raw.githubusercontent.com/victorzanetti/victorzanetti/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Snake animation - dark](https://raw.githubusercontent.com/victorzanetti/victorzanetti/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
